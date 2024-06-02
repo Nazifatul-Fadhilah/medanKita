@@ -1,0 +1,33 @@
+body {
+  height: 3000px;
+  background-color: #fffde1;
+}
+#navbarNav .nav-link {
+  color: #ff9d76;
+  opacity: 0.8;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #51eaea;
+}
+
+#projects {
+  background-color: #51eaea;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.active {
+  text-shadow: 3px 3px 3px rgba(255, 255, 255, 1.5); /* X-offset, Y-offset, blur radius, white color */
+}
+/* Primary #A8DF8E */
+/* Secondary #F3FDE8 */
+/* Third #FFE5E5  */
+/* Fourth #FFBFBF */
+
+/* Primary #51EAEA */
+/* Secondary #FFFDE1 */
+/* Third #FF9D76  */
+/* Fourth #FB3569 */
